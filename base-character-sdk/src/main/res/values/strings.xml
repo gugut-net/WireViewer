@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">base-character-sdk</string>
+    <string name="character_name">CHARACTER_NAME</string>
+</resources>
